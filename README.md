@@ -1,6 +1,4 @@
 # EXP 2: Linear and Circular Convolution
-## GAURAV CHEZHIAN N
-## 212223060065
 ## AIM: 
  To perform Linear and Circular Convolution for two given sequence using SCILAB. 
  
